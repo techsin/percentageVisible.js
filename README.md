@@ -1,7 +1,7 @@
 # percentageVisible.js
 Small script that returns what percentage an element is visible (in viewport);
 
-##Demo: http://codepen.io/techsin/pen/wKZejP
+##Demo: http://codepen.io/anon/pen/ZbZywZ
 ##Usage: 
     var el = $('.box');
     var data = percentInViewport(el);
